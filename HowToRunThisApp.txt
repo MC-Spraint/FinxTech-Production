@@ -1,0 +1,14 @@
+This directory contains only the 
+optimized and production version of the application,
+ready to be deployed on a cloud.
+
+To test it on your local system follow the steps below:
+
+1) Install nodejs and npm(current version) on your computer then
+   open command prompt right in this directory.
+2) Run "npm install"
+3) Run "npm run start"
+4) Your website will be live on localhost:3000
+
+############Cheeersss############
+  ####Developer: Mc Spraint####
