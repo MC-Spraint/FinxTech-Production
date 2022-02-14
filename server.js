@@ -7,7 +7,7 @@ const bodyParser = require("body-parser");
 
 const PORT = process.env.PORT || 4200;
 
-//^For extracting form data in to req.body
+//^For extracting form data into req.body
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({extended:true}));
 
